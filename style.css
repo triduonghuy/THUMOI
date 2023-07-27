@@ -4,7 +4,7 @@ body {
   justify-content: center;
   height: 100vh;
   background-color: #000000;
-  background-image: url(/css/hn.jpg);
+  background-image: url(/hn.jpg);
 }
 
 .birthdayCard {
